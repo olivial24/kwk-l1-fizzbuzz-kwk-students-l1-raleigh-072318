@@ -7,4 +7,3 @@ def fizzbuzz(number)
     return "Fizz"
   end
 end
-number=30
